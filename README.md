@@ -1,4 +1,4 @@
 # serial2topic
 ROS package for retriving serial input and then transfer it into open sound control (OSC)
 
-TODO: Add the osc reciever message 
+TODO: Add the osc reciever message to transfer it into TOPIC
